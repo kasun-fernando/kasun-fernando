@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kasun-fernando, currently a junior researcher in Dynamical Systems at Scuola Normale Superiore in Pisa.
+- 👋 Hi, I’m @kasun-fernando, currently a junior researcher in Dynamical Systems at the Scuola Normale Superiore in Pisa, Italy. 
 - 👀 I’m interested in Mathematics Research and Education, Machine Learning, and Data Science.
 - 🌱 I’m currently learning Python and Julia programming and the Italian Langauge :)
 - 💞️ I’m looking to collaborate on Machine Learning and Data Science related projects. 
